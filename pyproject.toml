@@ -1,7 +1,7 @@
 [project]
-name = "{{REPO_NAME}}"
+name = "rememberizer-mcp-skynetpublic"
 version = "0.1.4"
-description = "{{CK_DESCRIPTION}}"
+description = "Common Knowledge: SKYNET_PUBLIC"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
@@ -23,7 +23,7 @@ dev = [
 ]
 
 [project.scripts]
-{{REPO_NAME}} = "mcp_server_rememberizer:main"
+rememberizer-mcp-skynetpublic = "mcp_server_rememberizer:main"
 
 # ==== isort ====
 [tool.isort]
