@@ -1,3 +1,5 @@
+[![MSeeP.ai Security Assessment Badge](https://mseep.net/pr/skydeckai-rememberizer-mcp-skynetpublic-badge.png)](https://mseep.ai/app/skydeckai-rememberizer-mcp-skynetpublic)
+
 # Rememberizer MCP Server for Common Knowledge
 
 Common Knowledge: SKYNET_PUBLIC
